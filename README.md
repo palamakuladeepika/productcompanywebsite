@@ -465,20 +465,20 @@ body {
 
 ### Home Page:
 
-![output](./images/home.png)
+![output](./home.png)
 
 ### Product Page:
 
-![output](./images/product1.png)
-![output](./images/product2.png)
+![output](./product1.png)
+![output](./product2.png)
 
 ### People Page:
 
-![output](./images/people.png)
+![output](./people.png)
 
 ### Contact Us Page:
 
-![output](./images/contactus.png)
+![output](./contactus.png)
 
 ## Result:
 
